@@ -1,3 +1,5 @@
+![eslint-plugin social preview](assets/social-preview.svg)
+
 # eslint-plugin-obsidianmd
 
 ## Installation
@@ -172,3 +174,7 @@ export default defineConfig([
 ### Known limitations
 
 Sentence detection may incorrectly split on abbreviations (Dr., Inc., etc.). Use single sentences or adjust rule options when needed.
+
+
+---
+BareBones Projects, Designed by: Justin Levesque-Welsch
